@@ -1,0 +1,15 @@
+# sbt dirs
+**/target/
+lib_managed/
+src_managed/
+project/boot/
+
+# metals setup
+.metals/
+.bloop/
+
+# generated stuff
+.class
+
+# macos specific
+**/.DS_Store/
